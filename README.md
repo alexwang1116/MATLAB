@@ -1,5 +1,5 @@
 # MATLAB 使用技巧 (Last update:7/5/2020 10:47:55 PM)
-📢 Learn to use LaTeX 🔔
+📢 Learn to use MATLAB 🔔
 
 
 ### MATLAB图片
